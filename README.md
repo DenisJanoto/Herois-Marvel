@@ -1,7 +1,6 @@
 # Herois-Marvel
 Neste app é possível acessar toda a base de dados da marvel via API e consultar todos seus heróis. 
-- Rest
-- Json
+- Rest/Json
 - Tableview Infinite Scroll
 - Webkit
 - Cocoapods (kingfisher, alamofire)
