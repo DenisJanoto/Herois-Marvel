@@ -1,5 +1,6 @@
 # Herois-Marvel
 Neste app é possível acessar toda a base de dados da marvel via API e consultar todos seus heróis. 
+- Splash Screen
 - Marvel Api
 - Rest/Json
 - Tableview Infinite Scroll
