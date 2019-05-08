@@ -1,5 +1,5 @@
 # Herois-Marvel
-Neste app é possível acessar toda a base de dados da marvel via API e consultar todos seus heróis. 
+Neste app é possível acessar toda a base de dados da marvel via API e consultar todos seus heróis. - Professor Eric Brito
 - Splash Screen
 - Marvel Api
 - Rest/Json
